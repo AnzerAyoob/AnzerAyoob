@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I'm Anzer Ayoob 👋
 
-<!--
-**AnzerAyoob/AnzerAyoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📰 Journalist | Public Information Resources
+📂 Creating useful datasets, templates, and guides for citizens, students, and researchers
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Publish
+
+- 📄 Official letter & application templates
+- 🧾 RTI formats
+- 📊 Public datasets
+- 🗂 Government scheme guides
+- 🌍 Country, state & city keyword datasets
+- 🧑‍💼 Journalism resources
+- 🏪 Small business compliance guides
+
+---
+
+Purpose
+
+Making public information easy to access and use.
+
+---
+
+Upcoming Repositories
+
+- official-letter-templates-india
+- rti-templates-india
+- citizen-help-guides-india
+- india-public-datasets
+- global-keyword-datasets
+
+---
+
+⭐ Follow for useful public resources.
