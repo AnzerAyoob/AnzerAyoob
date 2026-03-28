@@ -23,13 +23,13 @@ Making public information easy to access and use.
 
 ---
 
-Upcoming Repositories
+Repositories
 
-- [[official-letter-templates-india]]
-- [[rti-templates-india]]
-- citizen-help-guides-india
-- india-public-datasets
-- global-keyword-datasets
+- 📄 "official-letter-templates-india" (https://github.com/AnzerAyoob/official-letter-templates-india)
+- 🧾 "rti-templates-india" (https://github.com/AnzerAyoob/rti-templates-india)
+- 📰 "The-Chenab-Times" (https://github.com/AnzerAyoob/The-Chenab-Times)
+- 📊 "india-public-datasets" (https://github.com/AnzerAyoob/india-public-datasets)
+- 🌍 "global-keyword-datasets" (https://github.com/AnzerAyoob/global-keyword-datasets)
 
 ---
 
