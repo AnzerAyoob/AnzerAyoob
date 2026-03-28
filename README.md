@@ -25,8 +25,8 @@ Making public information easy to access and use.
 
 Upcoming Repositories
 
-- official-letter-templates-india
-- rti-templates-india
+- [[official-letter-templates-india]]
+- [[rti-templates-india]]
 - citizen-help-guides-india
 - india-public-datasets
 - global-keyword-datasets
