@@ -1,17 +1,18 @@
-<!-- FEATURED OPINION: cinematic editorial card -->
-<div align="center">
-  <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/">
-    <img src="https://anzerayoob.com/wp-content/uploads/2026/10/20261022_210334-1024x576.jpg" alt="Article cover: I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself." width="100%">
-  </a>
-  <br>
-  <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/">
-    <img src="https://raw.githubusercontent.com/AnzerAyoob/AnzerAyoob/main/assets/featured-opinion.svg" alt="Featured opinion by Anzer Ayoob: I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself." width="100%">
-  </a>
-  <br>
-  <sub><strong>ANZER AYOOB</strong> &nbsp;·&nbsp; JOURNOIST / JOURNALIST / INDEPENDENT DEVELOPER</sub>
-  <br><br>
-  <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/"><img src="https://img.shields.io/badge/READ_THE_FEATURED_OPINION-FF365B?style=for-the-badge&logo=readme&logoColor=white" alt="Read the featured opinion"></a>
-</div>
+<!-- FEATURED OPINION: unified editorial card -->
+<table>
+  <tr>
+    <td width="54%" valign="middle">
+      <p><strong>🔴 FEATURED OPINION</strong> &nbsp; <sub>OCTOBER 22, 2026 · 14 MIN READ</sub></p>
+      <h2>I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself.</h2>
+      <p>A first-person account of learning software development by building real products—with AI as a guide, not a substitute for understanding.</p>
+      <p><a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/"><strong>READ THE FULL ARTICLE →</strong></a></p>
+      <sub>ANZER AYOOB · JOURNOIST / JOURNALIST / INDEPENDENT DEVELOPER</sub>
+    </td>
+    <td width="46%" valign="middle">
+      <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/"><img src="https://anzerayoob.com/wp-content/uploads/2026/10/20261022_210334-1024x576.jpg" alt="Cover image for Anzer Ayoob's featured opinion article" width="100%"></a>
+    </td>
+  </tr>
+</table>
 ---
 
 <h1 align="center">Anzer Ayoob</h1>
