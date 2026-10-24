@@ -35,27 +35,29 @@ Three products, each built around a practical need.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>📰 The Chenab Times</h3>
+    <td width="33%" valign="top" align="center">
+      <a href="https://thechenabtimes.com/"><img src="https://thechenabtimes.com/wp-content/uploads/2020/02/PicsArt_02-06-01.57.29.png" alt="The Chenab Times logo" width="112"></a>
+      <h3>The Chenab Times</h3>
       <p><strong>Independent journalism</strong></p>
-      <p>A multilingual regional-first news platform covering the Chenab Valley, Jammu & Kashmir, India, and beyond—with reporting and public-interest information for local communities.</p>
-      <p><a href="https://play.google.com/store/search?q=The%20Chenab%20Times&c=apps">Find on Google Play ↗</a><br><a href="https://thechenabtimes.com/">News website ↗</a></p>
+      <p>A multilingual, regional-first news platform covering the Chenab Valley, Jammu &amp; Kashmir, India, and beyond—with reporting and public-interest information for local communities.</p>
+      <p><a href="https://thechenabtimes.com/">News website ↗</a><br><a href="https://play.google.com/store/search?q=The%20Chenab%20Times&amp;c=apps">Find on Google Play ↗</a></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>📄 ScanPatra</h3>
+    <td width="33%" valign="top" align="center">
+      <a href="https://scanpatra.com/"><img src="https://scanpatra.com/logo.png" alt="ScanPatra logo" width="112"></a>
+      <h3>ScanPatra</h3>
       <p><strong>Document productivity</strong></p>
       <p>An Android document workflow app for scanning, cleaning, searching, and managing documents, with OCR and PDF tools designed around privacy and offline-first use.</p>
-      <p><a href="https://www.scanpatra.com/">Official website ↗</a><br><a href="https://play.google.com/store/search?q=ScanPatra&c=apps">Find on Google Play ↗</a></p>
+      <p><a href="https://scanpatra.com/">Official website ↗</a><br><a href="https://play.google.com/store/search?q=ScanPatra&amp;c=apps">Find on Google Play ↗</a></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🔎 Journoist</h3>
+    <td width="33%" valign="top" align="center">
+      <a href="https://journoist.com/"><img src="https://journoist.com/wp-content/uploads/2025/12/cropped-display-picture-sq-Jf4M0WmlQwXJW38S.jpg" alt="Journoist logo" width="112"></a>
+      <h3>Journoist</h3>
       <p><strong>Tools for public impact</strong></p>
       <p>A platform for journalists and activists combining research and verification tools, concise public updates called Drops, and civic campaigns. The product is actively being developed.</p>
       <p><a href="https://journoist.com/">Official website ↗</a><br><a href="https://github.com/Journoist/journoist">Source repository ↗</a></p>
     </td>
   </tr>
 </table>
-
 ---
 
 ## What I work on
