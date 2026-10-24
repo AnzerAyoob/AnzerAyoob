@@ -8,7 +8,6 @@
   <br><br>
   <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/"><img src="https://img.shields.io/badge/READ_THE_FEATURED_OPINION-EE6548?style=for-the-badge&logo=readme&logoColor=white" alt="Read the featured opinion"></a>
 </div>
----
 
 <h1 align="center">Anzer Ayoob</h1>
 <p align="center">
