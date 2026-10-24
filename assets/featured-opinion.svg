@@ -12,7 +12,11 @@
   <rect x="25" y="28" width="1150" height="400" rx="27" fill="#f33c62" opacity=".16" filter="url(#shadow)"/>
   <g clip-path="url(#clip)">
     <rect x="18" y="18" width="1164" height="404" rx="24" fill="url(#bg)"/>
-    <image href="https://anzerayoob.com/wp-content/uploads/2026/10/20261022_210334-1024x576.jpg" x="420" y="18" width="762" height="404" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="420" y="18" width="762" height="404" fill="#0b1728"/>
+    <circle cx="1000" cy="90" r="260" fill="#263e67" opacity=".38"/>
+    <circle cx="1040" cy="365" r="210" fill="#54233b" opacity=".25"/>
+    <path d="M570 422 L880 18 M690 422 L1000 18 M810 422 L1120 18" stroke="#6d8cff" stroke-opacity=".12" stroke-width="1.5"/>
+    <path d="M770 18 H1182 V422 H900 Z" fill="#17263d" opacity=".3"/>
     <rect x="18" y="18" width="1164" height="404" fill="url(#veil)"/>
     <path d="M18 330 C190 295 265 360 440 315 S680 330 770 290" fill="none" stroke="#ff9a70" stroke-width="2" opacity=".7"/>
     <path d="M18 342 C190 307 265 372 440 327 S680 342 770 302" fill="none" stroke="#ff4f72" stroke-width="1" opacity=".35"/>
