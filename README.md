@@ -1,6 +1,10 @@
 <!-- FEATURED OPINION: cinematic editorial card -->
 <div align="center">
   <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/">
+    <img src="https://anzerayoob.com/wp-content/uploads/2026/10/20261022_210334-1024x576.jpg" alt="Article cover: I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself." width="100%">
+  </a>
+  <br>
+  <a href="https://anzerayoob.com/i-didnt-want-ai-to-build-my-app-i-wanted-to-learn-how-to-build-it-myself/">
     <img src="https://raw.githubusercontent.com/AnzerAyoob/AnzerAyoob/main/assets/featured-opinion.svg" alt="Featured opinion by Anzer Ayoob: I Didn’t Want AI to Build My App. I Wanted to Learn How to Build It Myself." width="100%">
   </a>
   <br>
