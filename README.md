@@ -42,7 +42,7 @@ Three products, each built around a practical need.
       <h3>📰 The Chenab Times</h3>
       <p><strong>Independent journalism</strong></p>
       <p>A multilingual regional-first news platform covering the Chenab Valley, Jammu & Kashmir, India, and beyond—with reporting and public-interest information for local communities.</p>
-      <p><a href="https://play.google.com/store/apps/details?id=com.thechenabtimes.app">Google Play ↗</a><br><a href="https://thechenabtimes.com/">News website ↗</a></p>
+      <p><a href="https://play.google.com/store/search?q=The%20Chenab%20Times&c=apps">Find on Google Play ↗</a><br><a href="https://thechenabtimes.com/">News website ↗</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>📄 ScanPatra</h3>
